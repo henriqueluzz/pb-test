@@ -4,7 +4,7 @@ Teste para Cientista de Dados – Paraná Banco
 O objetivo deste teste é construir um modelo estatístico/*machine learning* preditivo para identificar a target do *dataset*.
 
 #### *Datasets*:
-•	train.csv: *dataset* de treino<br>
+•	train.csv: *dataset* de treino Disponível em: https://drive.google.com/open?id=1WQJ7xHiXFMy60ppgxRAJkdrT0u2Wmj0D <br>
 •	test.csv: *dataset* de teste. As mesmas colunas do *dataset* de treino mas sem a coluna de target. Seu objetivo é predizer a probabilidade da target para cada linha da tabela.<br> 
 •	Neste caso a coluna de *target* é a coluna “isFraud”<br>
 
