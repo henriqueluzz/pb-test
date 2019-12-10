@@ -5,7 +5,7 @@ O objetivo deste teste é construir um modelo estatístico/*machine learning* pr
 
 #### *Datasets*:
 •	train.csv: *dataset* de treino Disponível em: https://drive.google.com/open?id=1WQJ7xHiXFMy60ppgxRAJkdrT0u2Wmj0D <br>
-•	test.csv: *dataset* de teste. As mesmas colunas do *dataset* de treino mas sem a coluna de target. Seu objetivo é predizer a probabilidade da target para cada linha da tabela.<br> 
+•	test.csv: *dataset* de teste. As mesmas colunas do *dataset* de treino mas sem a coluna de target. Seu objetivo é predizer a probabilidade da target para cada linha da tabela. Disponível em: https://drive.google.com/file/d/19Y4Vc1tgC9zDbBRaYy8Mb_jmUPK1oG1T/view?usp=sharing <br>
 •	Neste caso a coluna de *target* é a coluna “isFraud”<br>
 
 #### Entregável:
